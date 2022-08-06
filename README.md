@@ -1,4 +1,5 @@
 # Multiplication Table C
+## output
     1 x 0 = 0
     1 x 1 = 1
     1 x 2 = 2
